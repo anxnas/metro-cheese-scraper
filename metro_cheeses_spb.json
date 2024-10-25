@@ -1,0 +1,802 @@
+[
+  {
+    "id": 533062,
+    "name": "Сыр Cheese Gallery Чеддер красный полутвердый нарезка 50%, 150г",
+    "link": "https://online.metro-cc.ru/products/cheese-gallery-chedder-krasnyj-narezka-45-150g-bzmzh",
+    "regular_price": 229.0,
+    "promo_price": 169.0,
+    "brand": "CHEESE GALLERY"
+  },
+  {
+    "id": 40137,
+    "name": "Сыр Ламбер Классический полутвердый 50%, ~1кг",
+    "link": "https://online.metro-cc.ru/products/lamber-v-bochonke-1kg-bzmzh",
+    "regular_price": 999.0,
+    "promo_price": null,
+    "brand": "ЛАМБЕР"
+  },
+  {
+    "id": 390227,
+    "name": "Сыр Ламбер полутвердый 50%, 230г",
+    "link": "https://online.metro-cc.ru/products/lamber-50230g-bzmzh",
+    "regular_price": 309.0,
+    "promo_price": 259.0,
+    "brand": "ЛАМБЕР"
+  },
+  {
+    "id": 208122,
+    "name": "Сыр Ламбер полутвердый 50%, ~500г",
+    "link": "https://online.metro-cc.ru/products/500g-syr-50-lamber-bzmzh",
+    "regular_price": 999.0,
+    "promo_price": 909.0,
+    "brand": "ЛАМБЕР"
+  },
+  {
+    "id": 214939,
+    "name": "Сыр Natura сливочный полутвердый 45%, 400г",
+    "link": "https://online.metro-cc.ru/products/400g-syr-slivochnyy-45-natura-bzmzh",
+    "regular_price": 479.0,
+    "promo_price": 399.0,
+    "brand": "NATURA"
+  },
+  {
+    "id": 621667,
+    "name": "METRO Chef Сыр Тильзитер полутвердый нарезка 45%, 500г",
+    "link": "https://online.metro-cc.ru/products/metro-chef-tilziter-narezka-45-500g",
+    "regular_price": 519.0,
+    "promo_price": null,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 214938,
+    "name": "Сыр Natura сливочный легкий полутвердый 16%, 400г",
+    "link": "https://online.metro-cc.ru/products/400g-syr-legkiy-30-natura-bzmzh",
+    "regular_price": 499.0,
+    "promo_price": 399.0,
+    "brand": "NATURA"
+  },
+  {
+    "id": 133361,
+    "name": "Сыр Брест-Литовск Тильзитер полутвердый 45%, 200г",
+    "link": "https://online.metro-cc.ru/products/syr-tilziter-brest-litovsk-45-200g-bzmzh",
+    "regular_price": 197.0,
+    "promo_price": 179.0,
+    "brand": "БРЕСТ-ЛИТОВСК"
+  },
+  {
+    "id": 214937,
+    "name": "Сыр Natura сливочный полутвердый 45%, 1кг",
+    "link": "https://online.metro-cc.ru/products/1kg-syr-slivochnyy-45-natura-bzmzh",
+    "regular_price": 999.0,
+    "promo_price": 949.0,
+    "brand": "NATURA"
+  },
+  {
+    "id": 255116,
+    "name": "METRO Chef Сыр российский с топленым молоком сливочный 45%, ~1кг",
+    "link": "https://online.metro-cc.ru/products/1kg-syr-rossiyskiy-45-metro-chef-topl-moloko-sliv-bzmzh",
+    "regular_price": 939.0,
+    "promo_price": 749.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 516315,
+    "name": "Сыр Natura сливочный полутвердый 45%, 200г",
+    "link": "https://online.metro-cc.ru/products/natura-slivochnyj-200g-bzmzh",
+    "regular_price": 199.0,
+    "promo_price": 189.0,
+    "brand": "NATURA"
+  },
+  {
+    "id": 118308,
+    "name": "METRO Chef Сыр Тильзитер 45%, 500г",
+    "link": "https://online.metro-cc.ru/products/500g-45-metro-chef-tilziter-bzmzh",
+    "regular_price": 469.0,
+    "promo_price": 429.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 621731,
+    "name": "METRO Chef Сыр Гауда 48%, ~2.5кг",
+    "link": "https://online.metro-cc.ru/products/gauda-48-metro-chef-vesovoj",
+    "regular_price": 779.0,
+    "promo_price": 669.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 118311,
+    "name": "METRO Chef Сыр Маасдам 45%, 500г",
+    "link": "https://online.metro-cc.ru/products/500g-45-metro-chef-maasdam-bzmzh",
+    "regular_price": 659.0,
+    "promo_price": 499.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 76002,
+    "name": "Сыр Брест-Литовск Российский полутвердый 50%, 200г",
+    "link": "https://online.metro-cc.ru/products/art-76002",
+    "regular_price": 202.0,
+    "promo_price": 175.0,
+    "brand": "БРЕСТ-ЛИТОВСК"
+  },
+  {
+    "id": 133362,
+    "name": "Сыр Брест-Литовск Гауда полутвердый 45%, 200г",
+    "link": "https://online.metro-cc.ru/products/syr-gauda-brest-litovs-45-200g-bzmzh",
+    "regular_price": 197.0,
+    "promo_price": 179.0,
+    "brand": "БРЕСТ-ЛИТОВСК"
+  },
+  {
+    "id": 226177,
+    "name": "Сыр Тысяча озёр Легкий полутвердый 15%, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-syr-legkiy-15-tysyacha-ozyor-kusok-bzmzh",
+    "regular_price": 219.0,
+    "promo_price": 169.0,
+    "brand": "ТЫСЯЧА ОЗЁР"
+  },
+  {
+    "id": 621671,
+    "name": "METRO Chef Сыр Маасдам полутвердый нарезка 45%, 1кг",
+    "link": "https://online.metro-cc.ru/products/maasdam-narezka-45-metro-chef-1-kg",
+    "regular_price": 1319.0,
+    "promo_price": null,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 621666,
+    "name": "METRO Chef Сыр Маасдам полутвердый нарезка 45%, 500г",
+    "link": "https://online.metro-cc.ru/products/metro-chef-maasdam-narezka-45-500g",
+    "regular_price": 699.0,
+    "promo_price": null,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 215910,
+    "name": "Сыр Natura Сливочный полутвердый нарезка 45%, 300г",
+    "link": "https://online.metro-cc.ru/products/300g-syr-slivochnyy-45-natura-narezka-bzmzh",
+    "regular_price": 409.0,
+    "promo_price": null,
+    "brand": "NATURA"
+  },
+  {
+    "id": 118312,
+    "name": "METRO Chef Сыр тертый для макарон 45%, 500г",
+    "link": "https://online.metro-cc.ru/products/500g-50-tyortyj-d-makaron-metro-chef-bzmzh",
+    "regular_price": 389.0,
+    "promo_price": 299.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 621721,
+    "name": "METRO Chef Сыр Гауда тертый 48%, 500г",
+    "link": "https://online.metro-cc.ru/products/metro-chef-gauda-tertyj-48-500-g",
+    "regular_price": 479.0,
+    "promo_price": null,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 123790,
+    "name": "METRO Chef Смесь тертых сыров 45%, 150г",
+    "link": "https://online.metro-cc.ru/products/150g-smes-tyortyh-45-metro-chef-bzmzh",
+    "regular_price": 141.0,
+    "promo_price": 119.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 621668,
+    "name": "METRO Chef Сыр Чеддар красный полутвердый нарезка 50%, 500г",
+    "link": "https://online.metro-cc.ru/products/metro-chef-cheddar-krasnyj-narezka-50-500g",
+    "regular_price": 689.0,
+    "promo_price": null,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 621670,
+    "name": "METRO Chef Сыр Гауда полутвердый нарезка 48%, 1кг",
+    "link": "https://online.metro-cc.ru/products/gauda-narezka-48-metro-chef-1-kg",
+    "regular_price": 1139.0,
+    "promo_price": null,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 247675,
+    "name": "Сыр La Paulina Чеддер полутвердый 48%, 180г",
+    "link": "https://online.metro-cc.ru/products/180g-syr-chedder-48-la-paulina-bzmzh",
+    "regular_price": 284.0,
+    "promo_price": 229.0,
+    "brand": "LA PAULINA"
+  },
+  {
+    "id": 125025,
+    "name": "Сыр Брест-Литовск Маасдам полутвердый 45%, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-45-maasdam-brest-litovsk-bzmzh",
+    "regular_price": 229.0,
+    "promo_price": 189.0,
+    "brand": "БРЕСТ-ЛИТОВСК"
+  },
+  {
+    "id": 621703,
+    "name": "METRO Chef Сыр Эдам полутвердый нарезка 40%, 500г",
+    "link": "https://online.metro-cc.ru/products/metro-chef-edam-narezka-40-500-g",
+    "regular_price": 509.0,
+    "promo_price": null,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 133360,
+    "name": "Сыр Брест-Литовск Чеддер полутвердый 45%, 200г",
+    "link": "https://online.metro-cc.ru/products/syr-chedder-brest-litovsk-45-200g-bzmzh",
+    "regular_price": 269.0,
+    "promo_price": 189.0,
+    "brand": "БРЕСТ-ЛИТОВСК"
+  },
+  {
+    "id": 621690,
+    "name": "METRO Chef Сыр Чеддар красный полутвердый 50%, ~1кг",
+    "link": "https://online.metro-cc.ru/products/cheddar-metro-chef-krasnyj-50-1-kg",
+    "regular_price": 1129.0,
+    "promo_price": 899.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 621730,
+    "name": "METRO Chef Сыр Эдам 40%, ~2.5кг",
+    "link": "https://online.metro-cc.ru/products/edam-40-metro-chef-vesovoj",
+    "regular_price": 799.0,
+    "promo_price": 699.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 643527,
+    "name": "Сыр Брест-Литовск Сливочный полутвердый 50%, 200г",
+    "link": "https://online.metro-cc.ru/products/brest-litovsk-slivochnyj-50-200g",
+    "regular_price": 195.0,
+    "promo_price": null,
+    "brand": "БРЕСТ-ЛИТОВСК"
+  },
+  {
+    "id": 216926,
+    "name": "aro Сыр российский 50%, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-syr-rossiyskiy-50-aro-bzmzh",
+    "regular_price": 144.0,
+    "promo_price": 129.0,
+    "brand": "ARO"
+  },
+  {
+    "id": 103364,
+    "name": "Сыр Hochland Грюнландер полутвердый 50%, 400г",
+    "link": "https://online.metro-cc.ru/products/hochland-gryunlander-50-400g",
+    "regular_price": 419.0,
+    "promo_price": 369.0,
+    "brand": "HOCHLAND"
+  },
+  {
+    "id": 130364,
+    "name": "Сыр Тысяча озёр легкий полутвердый нарезка 15%, 125г",
+    "link": "https://online.metro-cc.ru/products/125g-15-legkij-tysyacha-ozyor-nar-bzmzh",
+    "regular_price": 169.0,
+    "promo_price": 129.0,
+    "brand": "ТЫСЯЧА ОЗЁР"
+  },
+  {
+    "id": 223265,
+    "name": "METRO Chef Сыр чеддер красный 50%, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-syr-cheddar-krasnyy-50-metro-chef-bzmzh",
+    "regular_price": 253.0,
+    "promo_price": 199.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 130369,
+    "name": "Сыр Тысяча озёр Сливочный полутвердый нарезка 50%, 125г",
+    "link": "https://online.metro-cc.ru/products/125g-50-slivochnyj-tysyacha-ozyor-nar-bzmzh",
+    "regular_price": 169.0,
+    "promo_price": 119.0,
+    "brand": "ТЫСЯЧА ОЗЁР"
+  },
+  {
+    "id": 121162,
+    "name": "Сыр Natura сливочный легкий полутвердый 16%, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-30-natura-slivochnyj-legkij-bzmzh",
+    "regular_price": 257.0,
+    "promo_price": 229.0,
+    "brand": "NATURA"
+  },
+  {
+    "id": 204097,
+    "name": "Сыр Laplandia Сливочный полутвердый нарезка 45%, 250г",
+    "link": "https://online.metro-cc.ru/products/250g-syr-45-laplandia-slivochnyy-narezka-bzmzh",
+    "regular_price": 419.0,
+    "promo_price": 289.0,
+    "brand": "LAPLANDIA"
+  },
+  {
+    "id": 118313,
+    "name": "METRO Chef Сыр Российский 50%, 500г",
+    "link": "https://online.metro-cc.ru/products/500g-50-rossijskij-metro-chef-bzmzh",
+    "regular_price": 409.0,
+    "promo_price": 299.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 111530,
+    "name": "METRO Chef Сыр Российский нарезка 50%, 1кг",
+    "link": "https://online.metro-cc.ru/products/50-rossijskij-metro-chef-narezka-1kg",
+    "regular_price": 1199.0,
+    "promo_price": 949.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 223266,
+    "name": "METRO Chef Сыр маасдам 45%, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-syr-maasdam-45-metro-chef-bzmzh",
+    "regular_price": 244.0,
+    "promo_price": 209.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 643530,
+    "name": "Сыр Брест-Литовск полутвердый 45%, 200г",
+    "link": "https://online.metro-cc.ru/products/brest-litovsk-45-200g-bzmzh",
+    "regular_price": 195.0,
+    "promo_price": null,
+    "brand": "БРЕСТ-ЛИТОВСК"
+  },
+  {
+    "id": 621673,
+    "name": "METRO Chef Сыр Чеддар красный полутвердый нарезка 50%, 1кг",
+    "link": "https://online.metro-cc.ru/products/cheddar-krasnyj-narezka-50-metro-chef-1000-g",
+    "regular_price": 1299.0,
+    "promo_price": null,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 621725,
+    "name": "METRO Chef Сыр Эдам 40%, ~1кг",
+    "link": "https://online.metro-cc.ru/products/edam-metro-chef-40-brusok-1-kg",
+    "regular_price": 959.0,
+    "promo_price": 699.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 621675,
+    "name": "METRO Chef Сыр Эдам 40% полутвердый нарезка, 1кг",
+    "link": "https://online.metro-cc.ru/products/edam-40-narezka-metro-chef-1-kg",
+    "regular_price": 959.0,
+    "promo_price": null,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 119889,
+    "name": "METRO Chef Сыр Маасдам полутвердый нарезка 45%, 150г",
+    "link": "https://online.metro-cc.ru/products/150g-45-maasdam-metro-chef-narezka-bzmzh",
+    "regular_price": 205.0,
+    "promo_price": null,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 621723,
+    "name": "METRO Chef Сыр Гауда 45%, ~1кг",
+    "link": "https://online.metro-cc.ru/products/gauda-metro-chef-48-brusok-1-kg",
+    "regular_price": 769.0,
+    "promo_price": 699.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 532094,
+    "name": "Сыр Natura Тильзитер полутвердый 45%, 250г",
+    "link": "https://online.metro-cc.ru/products/arla-natura-tilziter-250-g-bzmzh",
+    "regular_price": 319.0,
+    "promo_price": 269.0,
+    "brand": "NATURA"
+  },
+  {
+    "id": 643528,
+    "name": "Сыр Брест-Литовск Легкий полутвердый 35%, 200г",
+    "link": "https://online.metro-cc.ru/products/legkij-brest-litovsk-35-200g",
+    "regular_price": 195.0,
+    "promo_price": null,
+    "brand": "БРЕСТ-ЛИТОВСК"
+  },
+  {
+    "id": 621687,
+    "name": "METRO Chef Сыр Маасдам 45%, ~1кг",
+    "link": "https://online.metro-cc.ru/products/metro-chef-maasdam-45-bez-soderzhaniya-molochnogo-zhira-1-kg",
+    "regular_price": 1159.0,
+    "promo_price": 899.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 137419,
+    "name": "Сырный продукт Стародуб Тильзитер 45%, ~5.2кг",
+    "link": "https://online.metro-cc.ru/products/produkt-syrnyy-starodub-tilziter-45-52kg",
+    "regular_price": 539.0,
+    "promo_price": 439.0,
+    "brand": "СТАРОДУБ"
+  },
+  {
+    "id": 258050,
+    "name": "Сыр Брест-Литовск Маасдам полутвердый нарезка 45%, 130г",
+    "link": "https://online.metro-cc.ru/products/syr-brest-litovsk-maasdam-polutverdyy-45-130g",
+    "regular_price": 169.0,
+    "promo_price": 159.0,
+    "brand": "БРЕСТ-ЛИТОВСК"
+  },
+  {
+    "id": 511282,
+    "name": "Сыр Брест-Литовск Классический полутвердый нарезка 45%, 150г",
+    "link": "https://online.metro-cc.ru/products/brest-litovskoe-klassicheskij-45-narezka-150g-bzmzh",
+    "regular_price": 179.0,
+    "promo_price": null,
+    "brand": "БРЕСТ-ЛИТОВСК"
+  },
+  {
+    "id": 255117,
+    "name": "METRO Chef Сыр с пажитником 45%, ~1кг",
+    "link": "https://online.metro-cc.ru/products/1kg-syr-45-metro-chef-s-pazhitnikom-bzmzh",
+    "regular_price": 1179.0,
+    "promo_price": 799.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 621669,
+    "name": "METRO Chef Сыр Чеддар полутвердый нарезка 50%, 500г",
+    "link": "https://online.metro-cc.ru/products/metro-chef-cheddar-50-500-g",
+    "regular_price": 689.0,
+    "promo_price": 499.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 621688,
+    "name": "METRO Chef Сыр Тильзитер 45%, ~1кг",
+    "link": "https://online.metro-cc.ru/products/metro-chef-tilziter-45",
+    "regular_price": 919.0,
+    "promo_price": 849.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 70386,
+    "name": "Сыр Ламбер Сливочный полутвердый 55%, ~1кг",
+    "link": "https://online.metro-cc.ru/products/lamber-slivochnyj-55-1kg-bzmzh",
+    "regular_price": 1409.0,
+    "promo_price": 1219.0,
+    "brand": "ЛАМБЕР"
+  },
+  {
+    "id": 43860,
+    "name": "Сыр Киприно Молочный полутвердый 50%, ~1кг",
+    "link": "https://online.metro-cc.ru/products/molochnyj-kiprino-50-1kg-bzmzh",
+    "regular_price": 1029.0,
+    "promo_price": 879.0,
+    "brand": "КИПРИНО"
+  },
+  {
+    "id": 76003,
+    "name": "Сыр Брест-Литовск Финский полутвердый 45%, 200г",
+    "link": "https://online.metro-cc.ru/products/art-76003",
+    "regular_price": 202.0,
+    "promo_price": 175.0,
+    "brand": "БРЕСТ-ЛИТОВСК"
+  },
+  {
+    "id": 203756,
+    "name": "Сыр Viola Маасдам полутвердый нарезка 45%, 120г",
+    "link": "https://online.metro-cc.ru/products/120g-syr-45-viola-maasdam-narezka-bzmzh",
+    "regular_price": 209.0,
+    "promo_price": null,
+    "brand": "VIOLA"
+  },
+  {
+    "id": 119948,
+    "name": "METRO Chef Сыр Гауда 45%, 500г",
+    "link": "https://online.metro-cc.ru/products/500g-48-gauda-metro-chef-kusok-bzmzh",
+    "regular_price": 509.0,
+    "promo_price": 339.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 43862,
+    "name": "Сыр Киприно Алтайский полутвердый 50%, ~1кг",
+    "link": "https://online.metro-cc.ru/products/altajskij-kiprino-50-1kg-bzmzh",
+    "regular_price": 1309.0,
+    "promo_price": 999.0,
+    "brand": "КИПРИНО"
+  },
+  {
+    "id": 218916,
+    "name": "Сыр Hochland Грюнландер легкий полутвердый 35%, 400г",
+    "link": "https://online.metro-cc.ru/products/400g-syr-gryunlander-35-hochland-legkiy-bzmzh",
+    "regular_price": 429.0,
+    "promo_price": 369.0,
+    "brand": "HOCHLAND"
+  },
+  {
+    "id": 255120,
+    "name": "METRO Chef Сыр российский сливочный 45%, ~3кг",
+    "link": "https://online.metro-cc.ru/products/3kg-syr-rossiyskiy-45-metro-chef-slivochnyy-bzmzh",
+    "regular_price": 849.0,
+    "promo_price": 719.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 227428,
+    "name": "METRO Chef Сыр гауда 45%, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-syr-gauda-45-metro-chef-kusok-bzmzh",
+    "regular_price": 177.0,
+    "promo_price": 139.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 119942,
+    "name": "METRO Chef Сыр Гауда полутвердый нарезка 48%, 150г",
+    "link": "https://online.metro-cc.ru/products/150g-48-gauda-metro-chef-narezka-bzmzh",
+    "regular_price": 189.0,
+    "promo_price": null,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 247663,
+    "name": "Сыр Радость вкуса Топленое молочко полутвердый 45%, 180г",
+    "link": "https://online.metro-cc.ru/products/180g-syr-45-radost-vkusa-toplenoe-molochko-bzmzh",
+    "regular_price": 198.0,
+    "promo_price": 179.0,
+    "brand": "РАДОСТЬ ВКУСА"
+  },
+  {
+    "id": 621672,
+    "name": "METRO Chef Сыр Тильзитер полутвердый нарезка 45%, 1кг",
+    "link": "https://online.metro-cc.ru/products/tilziter-45-narezka-metro-chef-1-kg",
+    "regular_price": 1019.0,
+    "promo_price": null,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 213942,
+    "name": "Сыр Радость вкуса Топленое молочко полутвердый нарезка 45%, 125г",
+    "link": "https://online.metro-cc.ru/products/125g-syr-toplenoe-molochko-45-radost-vkusa-nar-bzmzh",
+    "regular_price": 179.0,
+    "promo_price": 139.0,
+    "brand": "РАДОСТЬ ВКУСА"
+  },
+  {
+    "id": 254897,
+    "name": "Сыр Песто Oldenburger красный 45%, ~1кг",
+    "link": "https://online.metro-cc.ru/products/1kg-syr-pesto-45-oldenburger-krasnyy-bzmzh",
+    "regular_price": 1359.0,
+    "promo_price": 899.0,
+    "brand": "OLDENBURGER"
+  },
+  {
+    "id": 226176,
+    "name": "Сыр Тысяча озёр Сливочный полутвердый 50%, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-syr-slivochnyy-50-tysyacha-ozyor-kusok-bzmzh",
+    "regular_price": 213.0,
+    "promo_price": 199.0,
+    "brand": "ТЫСЯЧА ОЗЁР"
+  },
+  {
+    "id": 215909,
+    "name": "Сыр Natura Сливочный полутвердый нарезка 45%, 150г",
+    "link": "https://online.metro-cc.ru/products/150g-syr-slivochnyy-45-natura-narezka-bzmzh",
+    "regular_price": 211.0,
+    "promo_price": null,
+    "brand": "NATURA"
+  },
+  {
+    "id": 227574,
+    "name": "Сыр Laplandia легкий полутвердый нарезка 17%, 120г",
+    "link": "https://online.metro-cc.ru/products/120g-syr-lyogkiy-17-laplandia-narezka-bzmzh",
+    "regular_price": 229.0,
+    "promo_price": 179.0,
+    "brand": "LAPLANDIA"
+  },
+  {
+    "id": 247661,
+    "name": "Сыр Радость вкуса Львиное сердце полутвердый 45%, 180г",
+    "link": "https://online.metro-cc.ru/products/180g-syr-45-radost-vkusa-lvinoe-serdtse-bzmzh",
+    "regular_price": 204.0,
+    "promo_price": 169.0,
+    "brand": "РАДОСТЬ ВКУСА"
+  },
+  {
+    "id": 221860,
+    "name": "METRO Chef Сыр тильзитер кусок 45%, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-syr-tilziter-45-metro-chef-kusok-bzmzh",
+    "regular_price": 204.0,
+    "promo_price": 189.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 247655,
+    "name": "Сыр Радость вкуса легкий полутвердый 35%, 180г",
+    "link": "https://online.metro-cc.ru/products/180g-syr-legkiy-35-radost-vkusa-bzmzh",
+    "regular_price": 193.0,
+    "promo_price": 169.0,
+    "brand": "РАДОСТЬ ВКУСА"
+  },
+  {
+    "id": 213941,
+    "name": "Сыр Радость вкуса легкий полутвердый нарезка 35%, 125г",
+    "link": "https://online.metro-cc.ru/products/125g-syr-legkiy-35-radost-vkusa-narezka-bzmzh",
+    "regular_price": 183.0,
+    "promo_price": 139.0,
+    "brand": "РАДОСТЬ ВКУСА"
+  },
+  {
+    "id": 98464,
+    "name": "Сыр La Paulina Чеддер полутвердый нарезка 48%, 400г",
+    "link": "https://online.metro-cc.ru/products/la-paulina-chedder-48-bzmzh-400-g",
+    "regular_price": 519.0,
+    "promo_price": 489.0,
+    "brand": "LA PAULINA"
+  },
+  {
+    "id": 621695,
+    "name": "METRO Chef Сыр Чеддар красный 50%, ~2кг",
+    "link": "https://online.metro-cc.ru/products/metro-chef-cheddar-krasnyj-50-bez-soderzhaniya-molochnogo-zhira-25kg",
+    "regular_price": 919.0,
+    "promo_price": 839.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 621693,
+    "name": "METRO Chef Сыр Тильзитер 45%, ~2.5кг",
+    "link": "https://online.metro-cc.ru/products/tilziter-45-metro-chef-vesovoj",
+    "regular_price": 869.0,
+    "promo_price": 789.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 87386,
+    "name": "Сыр Киприно Алтайский полутвердый 50%, ~1.5кг",
+    "link": "https://online.metro-cc.ru/products/altajskij-kiprino-50-15kg-bzmzh",
+    "regular_price": 1429.0,
+    "promo_price": 1299.0,
+    "brand": "КИПРИНО"
+  },
+  {
+    "id": 228619,
+    "name": "Сыр Schonfeld Гауда полутвердый нарезка 45%, 125г",
+    "link": "https://online.metro-cc.ru/products/125g-syr-gauda-45-schonfeld-narezka-bzmzh",
+    "regular_price": 186.0,
+    "promo_price": 149.0,
+    "brand": "SCHONFELD"
+  },
+  {
+    "id": 216574,
+    "name": "Сыр Стародуб Гауда полутвердый 45%, ~5.2кг",
+    "link": "https://online.metro-cc.ru/products/52kg-syr-gauda-45-starodub-bzmzh",
+    "regular_price": 769.0,
+    "promo_price": 629.0,
+    "brand": "СТАРОДУБ"
+  },
+  {
+    "id": 215911,
+    "name": "Сыр Natura Сливочный легкий полутвердый нарезка 16%, 150г",
+    "link": "https://online.metro-cc.ru/products/150g-syr-legkiy-30-natura-narezka-bzmzh",
+    "regular_price": 234.0,
+    "promo_price": null,
+    "brand": "NATURA"
+  },
+  {
+    "id": 254888,
+    "name": "Сыр Ларец с лисичками 45%, ~1кг",
+    "link": "https://online.metro-cc.ru/products/1kg-syr-45-larets-s-lisichkami-bzmzh",
+    "regular_price": 1249.0,
+    "promo_price": 899.0,
+    "brand": "ЛАРЕЦ"
+  },
+  {
+    "id": 204105,
+    "name": "Сыр Laplandia Сливочный тертый полутвердый 45%, 150г",
+    "link": "https://online.metro-cc.ru/products/150g-syr-45-laplandia-slivochnyy-tertyy-bzmzh",
+    "regular_price": 216.0,
+    "promo_price": null,
+    "brand": "LAPLANDIA"
+  },
+  {
+    "id": 203770,
+    "name": "Сыр Laplandia Сливочный полутвердый нарезка 45%, 130г",
+    "link": "https://online.metro-cc.ru/products/130g-syr-45-laplandia-slivochnyy-narezka-bzmzh",
+    "regular_price": 224.0,
+    "promo_price": 179.0,
+    "brand": "LAPLANDIA"
+  },
+  {
+    "id": 227595,
+    "name": "Сыр Laplandia Emmental полутвердый 45%, 180г",
+    "link": "https://online.metro-cc.ru/products/180g-syr-emmental-45-laplandia-kusok-bzmzh",
+    "regular_price": 309.0,
+    "promo_price": 239.0,
+    "brand": "LAPLANDIA"
+  },
+  {
+    "id": 213943,
+    "name": "Сыр Радость вкуса Львиное сердце полутвердый нарезка 45%, 125г",
+    "link": "https://online.metro-cc.ru/products/125g-syr-lvinoe-serdtse-45-radost-vkusa-nar-bzmzh",
+    "regular_price": 179.0,
+    "promo_price": 139.0,
+    "brand": "РАДОСТЬ ВКУСА"
+  },
+  {
+    "id": 471057,
+    "name": "Сыр Киприно Российский полутвердый 50% ~1.5кг",
+    "link": "https://online.metro-cc.ru/products/kiprino-rossijskij-50-15kg-bzmzh",
+    "regular_price": 1059.0,
+    "promo_price": 949.0,
+    "brand": "КИПРИНО"
+  },
+  {
+    "id": 406479,
+    "name": "Сыр Киприно Сливочный полутвердый 50%, ~1.5кг",
+    "link": "https://online.metro-cc.ru/products/kiprino-slivochnyj-bzmzh",
+    "regular_price": 1099.0,
+    "promo_price": 999.0,
+    "brand": "КИПРИНО"
+  },
+  {
+    "id": 203768,
+    "name": "Сыр Viola Российский полутвердый нарезка 50%, 270г",
+    "link": "https://online.metro-cc.ru/products/270g-syr-50-viola-rossiyskiy-narezka-bzmzh",
+    "regular_price": 369.0,
+    "promo_price": null,
+    "brand": "VIOLA"
+  },
+  {
+    "id": 113889,
+    "name": "METRO Chef Сыр чеддер 50%, 500г",
+    "link": "https://online.metro-cc.ru/products/500g-syr-50-metro-chef-chedder-bzmzh",
+    "regular_price": 669.0,
+    "promo_price": 429.0,
+    "brand": "METRO CHEF"
+  },
+  {
+    "id": 203763,
+    "name": "Сыр Viola Голландский полутвердый нарезка 45%, 120г",
+    "link": "https://online.metro-cc.ru/products/120g-syr-45-viola-gollandskiy-narezka-bzmzh",
+    "regular_price": 197.0,
+    "promo_price": null,
+    "brand": "VIOLA"
+  },
+  {
+    "id": 109119,
+    "name": "Сыр Тысяча озёр Лапландский полутвердый 45%, 380г",
+    "link": "https://online.metro-cc.ru/products/laplandskij-tysyacha-ozer-kusok-380g",
+    "regular_price": 449.0,
+    "promo_price": 329.0,
+    "brand": "ТЫСЯЧА ОЗЁР"
+  },
+  {
+    "id": 112947,
+    "name": "Сыр Cheese Gallery Чеддер красный полутвердый 50%, 200г",
+    "link": "https://online.metro-cc.ru/products/syr-polutverdyj-cheese-gallery-cheddar-krasnyj-50-200g",
+    "regular_price": 289.0,
+    "promo_price": 269.0,
+    "brand": "CHEESE GALLERY"
+  },
+  {
+    "id": 258045,
+    "name": "Сыр Брест-Литовск сливочный полутвердый 50%, 150г",
+    "link": "https://online.metro-cc.ru/products/syr-brest-litovsk-slivochnyy-polutverdyy-50-150g",
+    "regular_price": 189.0,
+    "promo_price": null,
+    "brand": "БРЕСТ-ЛИТОВСК"
+  },
+  {
+    "id": 212494,
+    "name": "Сыр Laime Маасдам полутвердый 45%, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-syr-maasdam-45-laime-kusok-bzmzh",
+    "regular_price": 299.0,
+    "promo_price": 209.0,
+    "brand": "LAIME"
+  },
+  {
+    "id": 105794,
+    "name": "Сыр Белебеевский Российский полутвердый 50%, 190г",
+    "link": "https://online.metro-cc.ru/products/bmk-rossijskij-50-190g",
+    "regular_price": 237.0,
+    "promo_price": 209.0,
+    "brand": "БЕЛЕБЕЕВСКИЙ"
+  }
+]
